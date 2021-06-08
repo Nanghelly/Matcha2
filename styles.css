@@ -10,3 +10,17 @@ h4 {color:#46484c
 button {color:#fff; 
     background-color: #025157;
 }
+
+.header {
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+  .header > * {
+    display: inline-block;
+  }
+  
+  .enlacenav {
+      display:inline
+  }
